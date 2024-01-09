@@ -1,6 +1,6 @@
 # geotracker
 
-app for searching your friends location
+App for searching your friends location
 
 ## Getting Started
 
